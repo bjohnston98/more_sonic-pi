@@ -1,0 +1,15 @@
+# Making a martini
+
+def get_ice()
+  sample(:bass_voxy_hit_c)
+  sleep(1)
+end
+
+#get_ice
+
+def get_glass
+  sample(:ambi_glass_hum)
+  sleep (1)
+end
+
+get_glass
